@@ -7,6 +7,6 @@ Si le sage à passer l'épreuve de la pesée de la plume alors il est digne de p
 
 [Arrivée](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/finish.md)
 
-[Takama-ga-hana](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/takama-ga-hana.md)
+[Takama-ga-hana](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/takama-ga-hara.md)
 
 COCHET Yves-Marie
