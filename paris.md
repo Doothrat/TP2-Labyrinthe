@@ -10,5 +10,6 @@ du Grand Lisbonne et de la zone métropolitaine de Lisbonne.
 [Vincennes](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/vincennes.md)
 [Nation](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/nation.md)
 [Takama-ga-hara](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/takama-ga-hara.md)
+[Salle Secrète](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/sallesecrete.md)
 
 Loic LEAL
