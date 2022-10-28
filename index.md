@@ -1,6 +1,9 @@
 Hello Camarade ! 
 
-Nous avons perdu notre pote Osiris, arriveras-tu à le retrouver ? On te suit !
+Nous avons perdu notre pote Osiris, arriveras-tu à le retrouver ? 
+Visite ses différents lieux afin de nous permettre de le retrouver.
+
+On te suit !
 
 ![image](https://media.cultureasy.com/wp-content/uploads/2022/06/51QZt9j8aiL.jpg)
 
