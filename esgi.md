@@ -1,6 +1,7 @@
 ESGI
 
 Ecole supérieure d'informatique.
+En arrivant ici, vous apercevez au loin un fleuve qui semble menez à d'anciennes pyramides égyptiennes.
 
 ![image](https://tse2.mm.bing.net/th?id=OIP.oTWXpjXYKWwE3fNksqCLwgHaFH&pid=Api)
 
