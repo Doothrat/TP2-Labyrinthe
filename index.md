@@ -7,8 +7,8 @@ On te suit !
 
 ![image](https://media.cultureasy.com/wp-content/uploads/2022/06/51QZt9j8aiL.jpg)
 
-[Vincennes](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/vincennes.md)
+Pourquoi pas faire un tour à [Vincennes](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/vincennes.md)
 
-[Lisbonne](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/lisbonne.md)
+Un petit tour au Portugal ? Go à [Lisbonne](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/lisbonne.md)
 
-[Champs Elysées](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/champs-élysée.md)
+The place to be "[Champs Elysées](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/champs-élysée.md)"
