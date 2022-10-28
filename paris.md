@@ -1,8 +1,7 @@
 Paris
 
-Lisbonne est la capitale et la plus grande ville du Portugal.
-La ville est également le chef-lieu du district de Lisbonne,
-du Grand Lisbonne et de la zone métropolitaine de Lisbonne.
+Paris est la capitale de la France. 
+Divisée en vingt arrondissements, elle est le chef-lieu de la région Île-de-France et le siège de la métropole du Grand Paris.
 
 ![image](https://cdn.sortiraparis.com/images/80/83517/753564-visuel-paris-tour-eiffel-rue.jpg)
 
