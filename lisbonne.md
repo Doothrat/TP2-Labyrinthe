@@ -7,10 +7,10 @@ du Grand Lisbonne et de la zone métropolitaine de Lisbonne.
 ![image](https://media.routard.com/image/62/9/fb-lisbonne-2.1475629.jpg)
 
 
-[Vincennes](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/vincennes.md)
+Pourquoi pas faire un tour à [Vincennes](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/vincennes.md)
 
-[Les Champs Elysées](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/champs-élysée.md)
+The place to be "[Les Champs Elysées](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/champs-élysée.md)" !
 
-[Madrid](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/madrid.md)
+Un petit tour en Espagne ? Go à [Madrid](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/madrid.md)
 
 Loic LEAL
