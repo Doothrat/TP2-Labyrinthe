@@ -7,8 +7,8 @@ Bienvenue sur l'avenu la plus célèbre de France. Elle est longue de deux kilom
 
 Retour au [Départ](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/README.md) ?
 
-Prochain arrêt [Lisbonne](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/lisbonne.md)
+ Terminus [Lisbonne](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/lisbonne.md)
 
-Terminus [Shiganshina](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/shiganshina.md)
+Prochain arrêt [Shiganshina](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/shiganshina.md)
 
 COCHET Yves-Marie
