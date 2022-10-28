@@ -5,12 +5,12 @@ Vous voilà arriver au Japon le pays du soleil levant. D'ici vous pouvez reparti
 ![image](https://user-images.githubusercontent.com/115085398/196280448-5185f902-cb5a-4b5b-9f1a-4e69e779c185.png)
 
 
-[Paris](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/paris.md)
+Pour la mode c'est [Paris](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/paris.md)
 
-[ESGI](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/esgi.md)
+Pour l'informatique c'est [ESGI](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/esgi.md)
 
-[Champs d'Ialou](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/champs-d-ialou.md)
+Pour la beauté du paysage [Champs d'Ialou](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/champs-d-ialou.md)
 
-[Narnia](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/sallesecrete.md)
+Et enfin [Narnia](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/sallesecrete.md)
 
 COCHET Yves-Marie
