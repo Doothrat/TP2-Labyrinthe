@@ -1,4 +1,8 @@
-Start
+Hello Camarade ! 
+
+Nous avons perdu notre pote Osiris, arriveras-tu à le retrouver ?
+
+![image](https://media.cultureasy.com/wp-content/uploads/2022/06/51QZt9j8aiL.jpg)
 
 [Vincennes](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/vincennes.md)
 
