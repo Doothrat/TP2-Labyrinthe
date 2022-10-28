@@ -11,4 +11,6 @@ Après avoir vécu une vie juste et équilibrée le nouvel enfant dans la mort r
 
 [Champs d'Ialou](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/champs-d-ialou.md)
 
+[Salle Secrète](https://github.com/Doothrat/TP2-Labyrinthe/blob/main/sallesecrete.md)
+
 COCHET Yves-Marie
